@@ -1,0 +1,16 @@
+We only need one container, the big container should be able to accomodate all.
+
+
+The below is the total amount of each type needs to be transported:
+
+Transport 1 Square: 10000
+
+Transport 1 Circle: 100
+
+Transport 2 Square: 160000
+
+Transport 2 Circle: 200
+
+Transport 3 Square: 10000
+
+Transport 3 Circle: 100
